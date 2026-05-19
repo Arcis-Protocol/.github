@@ -43,8 +43,9 @@ balance(agent)   → value
 | Repo | Description |
 |---|---|
 | [`core`](https://github.com/Arcis-Protocol/core) | Smart contracts — Foundry project, 20 contracts, 38 tests |
-| `sdk` | TypeScript SDK for agent integration (coming soon) |
-| `app` | Protocol dashboard and analytics (coming soon) |
+| [`sdk`](https://github.com/Arcis-Protocol/sdk) | TypeScript SDK — `@arcis/sdk`, viem-based, 22 tests |
+| [`app`](https://github.com/Arcis-Protocol/app) | Landing page at arcis.money |
+| [`docs`](https://github.com/Arcis-Protocol/docs) | Positioning, ATI specification, architecture |
 
 <br />
 
