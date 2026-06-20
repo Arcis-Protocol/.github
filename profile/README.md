@@ -27,4 +27,4 @@ withdraw(uint256 shares) → uint256 amount
 balance(address agent)   → uint256 value
 ```
 
-Deployed on **Base Sepolia** · [Dashboard](https://arcis.money/dashboard) · [Protocol Config](https://arcis.money/protocol.json)
+Deployed on **Base Sepolia** · [Dashboard](https://arcis.money/dashboard) · [Telegram](https://t.me/arcisprotocol) · [Protocol Config](https://arcis.money/protocol.json)
