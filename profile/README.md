@@ -60,5 +60,5 @@ Three functions. Any agent framework. The citadel has no gatekeepers.
   <a href="https://x.com/ArcisProtocol">X</a> ·
   <a href="https://t.me/arcisprotocol">Telegram</a> ·
   <a href="https://github.com/Arcis-Protocol">GitHub</a> ·
-  Base Sepolia
+  Base Mainnet
 </p>
