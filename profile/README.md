@@ -32,10 +32,6 @@ withdraw(uint256 shares) → uint256 amount
 balance(address agent)   → uint256 value
 ```
 
-### Security
-
-Emergency withdrawal · 24h strategy timelock · 0.1% early withdrawal fee · Per-agent caps · Utilization rate oracle · ERC-4626 · Zero `require()` · 116 tests
-
 ---
 
 <p align="center">
